@@ -1,4 +1,4 @@
-bacon-biz-wiki
+Bacon Biz Wiki
 ==============
 
-30x500 &amp; BaconBiz Wiki
+Where we can track such things as useful links, resources, & providers we know to be reliable.
